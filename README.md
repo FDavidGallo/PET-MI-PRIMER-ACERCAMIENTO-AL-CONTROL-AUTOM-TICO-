@@ -1,2 +1,3 @@
+<img width="1380" height="752" alt="Gemini_Generated_Image_7oqx4s7oqx4s7oqx" src="https://github.com/user-attachments/assets/d7e7520c-dab9-4aba-9af3-5ef70d4dfb64" />
 # PET-MI-PRIMER-ACERCAMIENTO-AL-CONTROL-AUTOM-TICO-
-<img width="1408" height="768" alt="Gemini_Generated_Image_ (3)" src="https://github.com/user-attachments/assets/de0edfc8-7bc5-44d0-a47a-b2c4d18379ba" />
+
