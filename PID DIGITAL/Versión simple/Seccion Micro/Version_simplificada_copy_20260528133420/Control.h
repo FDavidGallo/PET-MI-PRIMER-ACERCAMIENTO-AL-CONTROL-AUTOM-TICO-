@@ -1,7 +1,7 @@
 #ifndef CONTROL_H
 #define CONTROL_H
 
-#include <iostream>   // para std::cerr (solo para el mensaje de error)
+
 
 // --------------------------------------------------------------
 // Clase PID discreto (forma posicional)

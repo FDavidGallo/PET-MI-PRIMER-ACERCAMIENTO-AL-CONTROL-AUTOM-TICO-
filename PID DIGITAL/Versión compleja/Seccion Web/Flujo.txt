@@ -3,7 +3,7 @@
     {
         "id": "a361fa310e5b2f39",
         "type": "tab",
-        "label": "Flow 3",
+        "label": "VersionExtendida",
         "disabled": false,
         "info": "",
         "env": []

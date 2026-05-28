@@ -31,7 +31,7 @@ void ControlBinario::Reset() {
 double ControlBinario::Calcular(double setpoint, double medicion) {
     double mitad = anchoBanda / 2.0;
     if (medicion < setpoint - mitad) {
-        ultimaSalida = 1.0;
+        ultimaSalida = 100.0;
     } else if (medicion > setpoint + mitad) {
         ultimaSalida = 0.0;
     }
@@ -77,8 +77,7 @@ void Control::ForzarSalida(bool forzar, double valor) {
             flagSalidaForzada = true;
             valorSalidaForzada = valor;
         } else {
-            std::cerr << "Error: Valor de salida forzada (" << valor
-                      << ") debe estar entre 0 y 100. No se forza la salida.\n";
+            
             flagSalidaForzada = false;  // no se fuerza
         }
     } else {
